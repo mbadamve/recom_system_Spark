@@ -1,4 +1,4 @@
-# recom_system_Spark
+# Recommendation System on Spark
 In this project, the aim is to build a recommendation system on Spark using Alternate Least Squares (ALS) algorithm.
 
 Here, the dataset is taken from a Kaggle competition called 'WSDM - KKBox's Music Recommendation Challenge', where the dataset contains information of users listening to songs, source where it is played etc.
