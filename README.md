@@ -7,17 +7,17 @@ By leveraging this data, and appropriate feature engineering it is possible to i
 ## Music recommendation algorithm
 1. From NetEase Cloud Music's annual report and daily recommendations
     1. The glory days of records and DJs are over (gossip on the Kaggle page)
-This era belongs to the music recommendation algorithm
-What is the problem to be solved by the music recommendation algorithm?
-Whether the user will like a song or singer recommended to him
-How to know what kind of songs a new user will like
-There are two main ideas
-Content-based
-People-oriented
-Good music recommendation algorithm?
-A better user experience
-Stronger user stickiness
-Music copyright a large number of missing NetEase cloud to retain users can not be separated from the recommendation system
+    2. This era belongs to the music recommendation algorithm
+2. What is the problem to be solved by the music recommendation algorithm?
+    1. Whether the user will like a song or singer recommended to him
+    2. How to know what kind of songs a new user will like
+3. There are two main ideas
+    1. Content-based
+    2. People-oriented
+4. Good music recommendation algorithm?
+    1. A better user experience
+    2. Stronger user stickiness
+        1. Music copyright a large number of missing NetEase cloud to retain users can not be separated from the recommendation system
 KKBOX
 A picture of a client;
 A digital music media service provider originating in Taiwan
